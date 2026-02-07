@@ -73,6 +73,7 @@ Open the Terminal app CMD/Powershell and type:
 git clone https://github.com/HariSharmaa/MEME-CAM
 cd MEME-CAM
 ```
+---
 
 ### 2️⃣ Install Python 3.12
 
